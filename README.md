@@ -55,15 +55,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 jupyter notebook
 ```
 
-### Repository structure
-```
-.
-├── README.md
-├── <algorithm-project-1>.ipynb
-├── <algorithm-project-2>.ipynb
-└── ...
-```
-
 ### Notes
 - These are learning projects on public sample datasets, not production systems.
 - Scores can vary slightly with library versions and random seeds.
