@@ -15,15 +15,6 @@ I believe the best way to learn an algorithm is to **use it on real data, break 
 - **Good habits:** always comparing with a baseline, avoiding data leakage and not trusting a single score
 - **Communication:** visualizing results and documenting my work clearly
 
-### Projects
-| # | Algorithm | Project | Type | Dataset | Notebook |
-|---|---|---|---|---|---|
-| 1 | | | | | [Open in Colab](#) |
-| 2 | | | | | [Open in Colab](#) |
-| 3 | | | | | [Open in Colab](#) |
-
-_I add a new row each time I finish a project._
-
 ### Algorithm roadmap
 Tick each box as I complete a project.
 
