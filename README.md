@@ -15,6 +15,9 @@ I believe the best way to learn an algorithm is to **use it on real data, break 
 - **Good habits:** always comparing with a baseline, avoiding data leakage and not trusting a single score
 - **Communication:** visualizing results and documenting my work clearly
 
+### Current status
+This repository is just getting started. **No project notebooks have been added yet**, so every item on the roadmap below is still to do. Each finished project will get its own folder with a Colab notebook and a short README, and will be listed in a table here.
+
 ### Algorithm roadmap
 Tick each box as I complete a project.
 
@@ -45,12 +48,14 @@ Tick each box as I complete a project.
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Google Colab
 
 ### How to run
-**In Google Colab:** open a notebook from the table above and run all cells. Each notebook loads its dataset by itself.
+These steps apply once notebooks have been added. The plan is for each notebook to load its own dataset, so nothing needs to be downloaded by hand.
+
+**In Google Colab:** open a notebook from its project folder in Colab and run the cells in order.
 
 **Locally:**
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Guru1315/DAILY_PROJECTS_OF_ML-ALGORITHMS.git
+cd DAILY_PROJECTS_OF_ML-ALGORITHMS
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 jupyter notebook
 ```
